@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @astrixeuse
 - 👀 I’m interested in video games, cybersecurity and music
-- 🌱 I’m currently learning security
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning it basics in cybersecurity
 - 📫 How to reach me lassomeima@gmail.com
 
 <!---
